@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Gonzales
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning React JS and a bit of Backend with Node JS
-- 💞️ I’m looking to collaborate on new projects to improve my skills
+- 👀 I’m interested in Frontend Web Development.
+- 🌱 I’m currently learning React and a bit of Backend with Node.
+- 💞️ I’m looking to collaborate on new projects to improve my skills.
 - 📫 How to reach me? This is my email: diegoegj14@gmail.com
 
 <!---
