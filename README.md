@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Gonzales
 - 👀 I’m interested in Frontend Web Development.
-- 🌱 I’m currently learning Vue3 and NestJS.
+- 🌱 I’m currently learning React and NestJS.
 - 💞️ I’m looking to collaborate on new projects to improve my skills.
 - 📫 How to reach me? This is my email: diegoegj14@gmail.com
 
