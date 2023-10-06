@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at the **LILAB company**
 
-- 🌱 I’m currently learning **React and NestJS**
+- 🌱 I’m currently learning **Qwik and NestJS**
 
 - 👯 I’m looking to collaborate on **all types of web developmet projects to improve my skills.**
 
