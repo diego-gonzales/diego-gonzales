@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Gonzales</h1>
-<h3 align="center">Frontend Developer from Peru</h3>
+<h3 align="center">Web Developer from Peru</h3>
 
 - 🔭 I’m currently working at the **LILAB company**
 
-- 🌱 I’m currently learning **Qwik and NestJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **all types of web developmet projects to improve my skills.**
 
