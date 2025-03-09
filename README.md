@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Gonzales</h1>
 <h3 align="center">Web Developer from Peru</h3>
 
-- 🔭 I’m currently working at the **LILAB company**
+- 🔭 I’m currently working at the **NTT Data** company.
 
 - 🌱 I’m currently learning **NestJS**
 
